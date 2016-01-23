@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mars/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_48519c3c40fe64badf6dfeb128f3c45669585237.jar" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_526b7a432dc1bc72a6a02a1b97530384a4dbd047.jar" />
+    </item>
+    <item
+        jar="/Users/Mars/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/okio-1.6.0_09d207aef3f563a8c71e2a0a3c9dc8a2f70f1d7f.jar" />
+    </item>
+    <item
+        jar="/Users/Mars/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_b2fbe927ea5c87ab3bd982d48b22c3de2343dd75.jar" />
+    </item>
+    <item
+        jar="/Users/Mars/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_47815b09a26472e060a22dc24b0edec5299bd1c2.jar" />
+    </item>
+    <item
+        jar="/Users/Mars/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_83bb372a03e5787354eb316c2843ce0c23927744.jar" />
+    </item>
+    <item
+        jar="/Users/Mars/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Mars/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_61f91edafd932ad5abcb0f4ce14e33787b33a4c6.jar" />
+    </item>
+
+</items>
